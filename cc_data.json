@@ -1,0 +1,18 @@
+[
+  {
+    "level number": 1,
+    "timer":150,
+    "chip number":3,
+    "upper layer":[],
+    "lower layer":[],
+    "optional fields":[]
+  },
+  {
+    "level number": 2,
+    "timer":150,
+    "chip number":5,
+    "upper layer":[],
+    "lower layer":[],
+    "optional fields":[]
+  }
+]
